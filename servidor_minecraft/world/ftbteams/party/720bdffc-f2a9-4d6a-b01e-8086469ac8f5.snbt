@@ -1,0 +1,22 @@
+{
+	id: "720bdffc-f2a9-4d6a-b01e-8086469ac8f5"
+	type: "party"
+	owner: "81d4bb36-7c62-3f61-b5c9-278b801c6b62"
+	ranks: {
+		f54cd891-909f-3c9b-a9d0-760fc350073f: "member"
+		81d4bb36-7c62-3f61-b5c9-278b801c6b62: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": ""
+		"ftbteams:description": ""
+		"ftbteams:color": "#E6FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1790461768397L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"KMRgamer\"}]}" }
+		{ from: "81d4bb36-7c62-3f61-b5c9-278b801c6b62", date: 1790461768399L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"natthaniel777\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1790461773312L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"natthaniel777\"}]}" }
+	]
+	extra: { }
+}
