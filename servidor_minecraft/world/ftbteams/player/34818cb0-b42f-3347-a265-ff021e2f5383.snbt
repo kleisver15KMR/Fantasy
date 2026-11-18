@@ -1,0 +1,15 @@
+{
+	id: "34818cb0-b42f-3347-a265-ff021e2f5383"
+	type: "player"
+	player_name: "Zhair16"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Zhair16"
+		"ftbteams:description": ""
+		"ftbteams:color": "#68FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "81d4bb36-7c62-3f61-b5c9-278b801c6b62"
+	type: "player"
+	player_name: "KMRgamer"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "KMRgamer"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E6FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

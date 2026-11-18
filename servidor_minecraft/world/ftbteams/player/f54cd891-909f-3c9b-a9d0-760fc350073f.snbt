@@ -1,0 +1,15 @@
+{
+	id: "f54cd891-909f-3c9b-a9d0-760fc350073f"
+	type: "player"
+	player_name: "natthaniel777"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "natthaniel777"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
